@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Rut Ofen - a Full Stack programmer with knowledge and experience with projects and practicum.
+ 
 
-<!--
-**rutofen/rutofen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
