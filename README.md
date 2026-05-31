@@ -1,57 +1,48 @@
+<h1 align="center">Hi, I'm Rut 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  Full Stack Developer | Specialized in .NET, Vue.js & React
 </p>
-# Hi, I'm Rut 👋
 
-Full Stack Developer focused on building scalable web applications using .NET, Vue.js and React.
-
----
-
-## 🛠 Tech Stack
-
-**Backend:** C#, .NET Core, ASP.NET Web API  
-**Frontend:** Vue.js, React, Blazor Server  
-**Database:** PostgreSQL, SQL Server, MongoDB  
-**Tools & DevOps:** Git, Docker, CI/CD  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 What I Build
-- Enterprise web systems
-- Admin dashboards
-- Real-time tracking applications
-- API-driven architectures
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | C#, .NET Core, ASP.NET Web API, Node.js |
+| **Frontend** | Vue.js, React, Blazor Server, TypeScript, JavaScript |
+| **Databases** | PostgreSQL, SQL Server, MongoDB |
+| **DevOps & Tools** | Git, Docker, CI/CD, Google Cloud |
 
 ---
 
-## 💼 Projects
+### 🚀 Key Projects
 
-### 🚀 Sales Management System
-Enterprise platform for tracking sales targets and performance analytics.
+#### 📈 **Sales Management System**
+*Enterprise platform for tracking sales targets and performance analytics.*
+- **Stack:** Blazor Server, .NET Core, PostgreSQL, EF Core.
+- **Highlights:** 3-tier architecture, real-time KPI dashboards, complex DB queries optimization.
 
-- Built with Blazor Server + .NET Core
-- PostgreSQL with EF Core optimization
-- Real-time dashboards and KPI tracking
-
----
-
-### 🚚 Transport Management System
-Full Stack logistics platform for order and delivery tracking.
-
-- React Native + Node.js backend
-- Google Maps API integration
-- Real-time status updates and workflow management
+#### 🚚 **Transport Management System**
+*Full Stack logistics platform for order and delivery tracking.*
+- **Stack:** React, Node.js, MongoDB.
+- **Highlights:** Google Maps API integration, real-time tracking, Agile/Scrum methodology.
 
 ---
 
-### 🧾 Fillout Forms & Automations
-Automation system for building dynamic forms and workflows.
-
-- Custom form logic and integrations
-- Workflow automation and data handling
+### 📫 Let's Connect
+- **Portfolio:** [rutofen.zite.so](https://rutofen.zite.so)
 
 ---
-
-## 📫 Contact
-
-Portfolio: https://rutofen.zite.so  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rutofen&show_icons=true&theme=radical" />
+</div>
