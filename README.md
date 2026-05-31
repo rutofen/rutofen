@@ -1,14 +1,27 @@
-## Hi there 👋 I am Rut Ofen - a Full Stack programmer with knowledge and experience with projects and practicum.
- 
+# Hi, I'm Rut 👋
+
+Full Stack Developer with experience in:
+
+- C#
+- ASP.NET Core
+- Blazor Server
+- Vue.js
+- PostgreSQL
+- Node.js
+- React
+
+## Projects
+
+### Sales Management System
+Enterprise web application for managing sales targets and performance tracking.
+
+### Transport Management System
+Full Stack project for transportation and order management.
+
+### Fillout Forms & Automations
+Custom forms and workflows built with Fillout.
+
+## Contact
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Portfolio: https://rutofen.zite.so
