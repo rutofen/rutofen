@@ -41,8 +41,3 @@
 
 ### 📫 Let's Connect
 - **Portfolio:** [rutofen.zite.so](https://rutofen.zite.so)
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutofen&show_icons=true&theme=radical" />
-</div>
