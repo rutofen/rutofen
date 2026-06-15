@@ -1,139 +1,46 @@
-Skip to content
-rutofen
-rutofen
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
-Files
-Go to file
-t
-T
-README.md
-rutofen/rutofen is a special repository: its README.md will appear on your profile!
-rutofen
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-  1
-  2
-  3
-  4
-  5
-  6
-  7
-  8
-  9
- 10
- 11
- 12
- 13
- 14
- 15
- 16
- 17
- 18
- 19
- 20
- 21
- 22
- 23
- 24
- 25
- 26
- 27
- 28
- 29
- 30
- 31
- 32
- 33
- 34
- 35
- 36
- 37
- 38
- 39
- 40
- 41
- 42
- 43
- 44
- 45
- 46
- 47
- 48
 <h1 align="center">Hi, I'm Rut 👋</h1>
-<p align="center">
-  <b>Full Stack Developer | Specialized in .NET, Vue.js & React</b>
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <b>Full Stack Developer | Building scalable web systems</b>
 </p>
 
----
+<br>
 
-## 🛠 Tech Stack
+## 🛠 My Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | ⚙️ C#, .NET Core, ASP.NET Web API, Node.js |
-| **Frontend** | 🎨 Vue.js, React, Blazor Server, TypeScript, JavaScript |
-| **Databases** | 🗄️ PostgreSQL, SQL Server, MongoDB |
-| **DevOps & Tools** | 🚀 Git, Docker, CI/CD, Google Cloud |
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
+</p>
 
 ---
 
 ## 🚀 Key Projects
 
-### 📈 Sales Management System
-*Enterprise platform for tracking sales targets and performance analytics.*
-- **Stack:** Blazor Server • .NET Core • PostgreSQL • EF Core
-- **Key Features:** 3-tier architecture, real-time KPI dashboards, complex DB queries optimization.
-
-### 🚚 Transport Management System
-*Full Stack logistics platform for order and delivery tracking.*
-- **Stack:** React • Node.js • MongoDB
-- **Key Features:** Google Maps API integration, real-time tracking, Agile/Scrum methodology.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Sales Management** | Enterprise system for KPI & targets | `Blazor Server` `EF Core` `PostgreSQL` |
+| **Transport Tracker** | Logistics & real-time delivery system | `React` `Node.js` `Google Maps API` |
 
 ---
 
-## 📫 Let's Connect
+## ⚡ Activity & Stats
 
-- 🌐 **Portfolio:** [rutofen.zite.so](https://rutofen.zite.so)
+<p align="center">
+  <a href="https://github.com/RutRozenberg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutRozenberg&layout=compact&theme=radical&hide=html,css" alt="Ruti's Top Languages" />
+  </a>
+</p>
 
----
-<p align="center"><i>Building scalable web applications with passion.</i></p>
+<br>
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-לא נבחר קובץ
-Attach files by dragging & dropping, selecting or pasting them.
- 
+<div align="center">
+  <a href="https://rutofen.zite.so">🌐 Portfolio</a> | 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a>
+</div>
