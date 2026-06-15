@@ -35,18 +35,21 @@ Analytical, fast learner, and experienced in collaborative Agile/Scrum environme
 ---
 
 ## 🛠 Tech Stack Highlights
-* **Languages:** C#, JavaScript/TypeScript, Python, Java, PHP, Assembler.
-* **Backend:** .NET Core, ASP.NET Web API, Node.js, Express.js.
-* **Frontend:** Vue.js, React, Blazor, Angular.
-* **Databases:** PostgreSQL, SQL Server, MongoDB.
-* **DevOps/Tools:** Docker, Git, Google Cloud, CI/CD, Linux.
+
+| Category | Technologies |
+| :--- | :--- |
+| **🌐 Languages** | 💻 C#, JavaScript, TypeScript, Python, Java, PHP, Assembler |
+| **⚙️ Backend** | 🖥️ .NET Core, ASP.NET Web API, Node.js, Express.js |
+| **🎨 Frontend** | 📱 Vue.js, React, Blazor, Angular, HTML5, CSS3 |
+| **🗄️ Databases** | 🗃️ PostgreSQL, SQL Server, MongoDB |
+| **🚀 DevOps/Tools** | 🐳 Docker, Git, Google Cloud, CI/CD, Linux |
 
 ---
 
 ## 🌐 Let's Connect
 
 <a href="https://rutofen.zite.so">
-  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" width="250" />
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" width="280" />
 </a>
 
 </div>
