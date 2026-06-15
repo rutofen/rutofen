@@ -41,6 +41,5 @@
 <br>
 
 <div align="center">
-  <a href="https://rutofen.zite.so">🌐 Portfolio</a> | 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a>
+  <a href="https://rutofen.zite.so">🌐 Portfolio</a>
 </div>
