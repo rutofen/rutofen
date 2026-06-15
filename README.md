@@ -6,7 +6,7 @@
 
 💼 DSPRO
 
-⚡ ASP.NET Core | Blazor Server | Vue.js
+⚡ ASP.NET Core | Blazor Server | Vue.js | C#
 
 🗄️ PostgreSQL | EF Core
 
