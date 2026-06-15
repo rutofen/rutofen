@@ -42,7 +42,6 @@
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [rutofen.zite.so](https://rutofen.zite.so)
-- 💼 **LinkedIn:** [הוסיפי כאן לינק]
 
 ---
 <p align="center"><i>Building scalable web applications with passion.</i></p>
