@@ -4,179 +4,78 @@
 
 ### Full Stack Developer
 
-Building modern enterprise web applications using **ASP.NET Core**, **C#**, **Blazor Server**, **Vue.js** and **PostgreSQL**.
+Building modern web applications with **ASP.NET Core**, **C#**, **Blazor Server**, **Vue.js** and **PostgreSQL**.
 
-Experienced in backend and frontend development, REST APIs, business logic implementation and database optimization.
+Currently working as a **Full Stack Developer at DSPRO**, developing enterprise sales management systems.
 
-Currently developing enterprise sales management systems at **DSPRO**.
-
-<br>
-
-<a href="https://rutofen.zite.so">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
-</a>
-
-<a href="mailto:rutofen2269@gmai.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[🌐 Portfolio](https://rutofen.zite.so) • [💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • 📧 YOUR_EMAIL
 
 </div>
 
 ---
 
-# 💼 Current Position
+## 💼 Current Position
 
-### Full Stack Developer @ DSPRO
+**Full Stack Developer @ DSPRO**
 
-Working on an enterprise sales management platform focused on real-time performance tracking and business analytics.
-
-**Main responsibilities**
-
-- Developing enterprise web applications using a 3-layer architecture
-- Building management interfaces with Blazor Server and Vue.js
-- Writing complex EF Core queries against PostgreSQL
-- Implementing business logic and shared services
-- Collaborating in a Git-based development environment
+Developing enterprise web applications using **ASP.NET Core**, **Blazor Server**, **Vue.js**, **Entity Framework Core**, and **PostgreSQL**.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📈 Enterprise Sales Management System (DSPRO)
-
-Enterprise platform for managing sales targets, performance analysis and real-time rankings.
-
-**Tech**
-
-`ASP.NET Core` • `Blazor Server` • `Vue.js` • `PostgreSQL` • `Entity Framework Core`
-
----
-
-## 🚚 Transport Management System
-
-Full Stack transportation management platform developed during the Hi-Tel practicum.
-
-### Features
-
-- Order management
-- Real-time transportation tracking
-- Google Maps integration
-- Status history
-- Customer delivery confirmations
-
-**Tech**
-
-`React` • `React Native` • `Node.js` • `Express.js` • `MongoDB`
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📈 **Sales Management System** | Enterprise sales management platform | Blazor Server • ASP.NET Core • PostgreSQL |
+| 🚚 **Transport Management** | Real-time transportation management system | React • React Native • Node.js • MongoDB |
+| 🏢 **Business Management** | Business management platform with authentication | React • Node.js • MongoDB |
+| ✅ **Task Management API** | RESTful Web API | ASP.NET Core • C# |
 
 ---
 
-## 🏢 Business Management System
+## 🛠 Tech Stack
 
-Business management platform implementing layered architecture with authentication and authorization.
+**Backend**
 
-### Features
+ASP.NET Core • C# • Entity Framework Core • REST APIs
 
-- User authentication
-- Authorization
-- Secure password encryption
-- Logging
-- Testing
+**Frontend**
 
-**Tech**
+Blazor Server • Vue.js • React • JavaScript
 
-`React`
+**Databases**
 
-`Node.js`
-
-`MongoDB`
-
-`JWT`
-
-`bcrypt`
-
-`Jest`
-
----
-
-## ✅ Task Management API
-
-RESTful API for task management built with ASP.NET Core Web API.
-
-### Features
-
-- Layered architecture
-- REST API
-- Business logic
-- CRUD operations
-
-**Tech**
-
-`C#`
-
-`ASP.NET Core Web API`
-
-`.NET Core`
-
----
-
-# 💼 What I Do
-
-✔ Enterprise Web Applications
-
-✔ Backend Development (.NET)
-
-✔ Frontend Development (Blazor & Vue.js)
-
-✔ REST API Development
-
-✔ Business Logic Implementation
-
-✔ Database Design & Optimization
-
-✔ PostgreSQL & Entity Framework Core
-
-✔ Clean Architecture
-
----
-
-# 🤖 AI-Assisted Development
-
-I use modern AI tools to accelerate development, improve productivity and prototype solutions more efficiently.
+PostgreSQL • SQL Server • MongoDB
 
 **Tools**
 
-- GitHub Copilot
-- Fillout
-- Lovable
-- ChatGPT
+Git • Docker • Visual Studio
 
 ---
 
-# 🛠 Tech Stack
+## 🤖 AI-Assisted Development
 
-<p align="center">
+Using AI tools to improve productivity, accelerate development and prototype solutions.
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,vue,react,nodejs,postgres,mongodb,docker,git,visualstudio,py,php,java" />
-
-</p>
+**Tools:** ChatGPT • GitHub Copilot • Fillout • Lovable
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- AWS Cloud Fundamentals
-- Effective AI-assisted software development
+- AWS Cloud
+- AI-assisted Software Development
 - Modern Software Architecture
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&hide_border=true"/>
 
 </p>
 
@@ -184,12 +83,6 @@ I use modern AI tools to accelerate development, improve productivity and protot
 
 <div align="center">
 
-### 📫 Let's Connect
-
-🌐 Portfolio: https://rutofen.zite.so
-
-💼 LinkedIn: YOUR_LINKEDIN
-
-📧 Email: YOUR_EMAIL
+⭐ Feel free to explore my repositories and projects!
 
 </div>
