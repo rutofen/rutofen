@@ -4,61 +4,118 @@
 
 ### Full Stack Developer
 
-Building modern web applications with **ASP.NET Core**, **Blazor Server**, **Vue.js**, **C#**, and **PostgreSQL**.
+Building modern enterprise web applications using **ASP.NET Core**, **C#**, **Blazor Server**, **Vue.js** and **PostgreSQL**.
 
-I enjoy creating scalable backend systems, intuitive user interfaces, and clean, maintainable code.
+Experienced in backend and frontend development, REST APIs, business logic implementation and database optimization.
+
+Currently developing enterprise sales management systems at **DSPRO**.
 
 <br>
 
 <a href="https://rutofen.zite.so">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:rutofen2269@gmai.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
+# 💼 Current Position
+
+### Full Stack Developer @ DSPRO
+
+Working on an enterprise sales management platform focused on real-time performance tracking and business analytics.
+
+**Main responsibilities**
+
+- Developing enterprise web applications using a 3-layer architecture
+- Building management interfaces with Blazor Server and Vue.js
+- Writing complex EF Core queries against PostgreSQL
+- Implementing business logic and shared services
+- Collaborating in a Git-based development environment
+
+---
+
 # 🚀 Featured Projects
 
-## 📈 Sales Management System
+## 📈 Enterprise Sales Management System (DSPRO)
 
-Enterprise sales tracking platform built with **Blazor Server**, **ASP.NET Core**, **Entity Framework Core**, and **PostgreSQL**.
+Enterprise platform for managing sales targets, performance analysis and real-time rankings.
 
-➡️ Repository: *(add link)*
+**Tech**
+
+`ASP.NET Core` • `Blazor Server` • `Vue.js` • `PostgreSQL` • `Entity Framework Core`
 
 ---
 
 ## 🚚 Transport Management System
 
-Transportation management platform built with **React Native**, **Node.js**, **MongoDB**, and **Google Maps API**.
+Full Stack transportation management platform developed during the Hi-Tel practicum.
 
-➡️ Repository: *(add link)*
+### Features
+
+- Order management
+- Real-time transportation tracking
+- Google Maps integration
+- Status history
+- Customer delivery confirmations
+
+**Tech**
+
+`React` • `React Native` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
 ## 🏢 Business Management System
 
-Business management platform including authentication, employee management, reports and dashboards.
+Business management platform implementing layered architecture with authentication and authorization.
 
-Built using **React**, **Node.js**, **Express**, and **MongoDB**.
+### Features
 
-➡️ Repository: *(add link)*
+- User authentication
+- Authorization
+- Secure password encryption
+- Logging
+- Testing
+
+**Tech**
+
+`React`
+
+`Node.js`
+
+`MongoDB`
+
+`JWT`
+
+`bcrypt`
+
+`Jest`
 
 ---
 
 ## ✅ Task Management API
 
-RESTful API built with **ASP.NET Core Web API**, following a layered architecture.
+RESTful API for task management built with ASP.NET Core Web API.
 
-➡️ Repository: *(add link)*
+### Features
+
+- Layered architecture
+- REST API
+- Business logic
+- CRUD operations
+
+**Tech**
+
+`C#`
+
+`ASP.NET Core Web API`
+
+`.NET Core`
 
 ---
 
@@ -68,15 +125,30 @@ RESTful API built with **ASP.NET Core Web API**, following a layered architectur
 
 ✔ Backend Development (.NET)
 
-✔ Frontend Development (Blazor & Vue)
+✔ Frontend Development (Blazor & Vue.js)
 
 ✔ REST API Development
 
-✔ Database Design
+✔ Business Logic Implementation
 
-✔ Performance Optimization
+✔ Database Design & Optimization
+
+✔ PostgreSQL & Entity Framework Core
 
 ✔ Clean Architecture
+
+---
+
+# 🤖 AI-Assisted Development
+
+I use modern AI tools to accelerate development, improve productivity and prototype solutions more efficiently.
+
+**Tools**
+
+- GitHub Copilot
+- Fillout
+- Lovable
+- ChatGPT
 
 ---
 
@@ -84,7 +156,7 @@ RESTful API built with **ASP.NET Core Web API**, following a layered architectur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,vue,react,nodejs,postgres,mongodb,docker,git,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,vue,react,nodejs,postgres,mongodb,docker,git,visualstudio,py,php,java" />
 
 </p>
 
@@ -92,9 +164,9 @@ RESTful API built with **ASP.NET Core Web API**, following a layered architectur
 
 # 🌱 Currently Learning
 
-- AWS Cloud
-- Software Architecture
-- Performance Optimization
+- AWS Cloud Fundamentals
+- Effective AI-assisted software development
+- Modern Software Architecture
 
 ---
 
@@ -112,6 +184,12 @@ RESTful API built with **ASP.NET Core Web API**, following a layered architectur
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### 📫 Let's Connect
+
+🌐 Portfolio: https://rutofen.zite.so
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+📧 Email: YOUR_EMAIL
 
 </div>
