@@ -57,7 +57,7 @@ Git • Docker • Visual Studio
 
 Using AI tools to improve productivity, accelerate development and prototype solutions.
 
-**Tools:** ChatGPT • GitHub Copilot • Fillout • Lovable
+**Tools:** Codex • Amazon Q • GitHub Copilot • Claude • ChatGPT • Gemini • Fillout • Lovable   
 
 ---
 
